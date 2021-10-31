@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javatpoint.java_core.Basics_of_java","c":"b4","l":"b4()","u":"%3Cinit%3E()"},{"p":"javatpoint.java_core.Basics_of_java","c":"b4","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
